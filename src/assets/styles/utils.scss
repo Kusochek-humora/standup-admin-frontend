@@ -1,0 +1,67 @@
+@use "sass:map";
+$breakpoints: (
+  "mobile": 480px,
+  "tablet": 768px,
+  "laptop": 1024px,
+  "desktop": 1280px
+);
+
+/* ===== Mixin для адаптива ===== */
+@mixin media($breakpoint) {
+  @if map.has-key($breakpoints, $breakpoint) {
+    @media (max-width: map.get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  } @else {
+    @warn "Breakpoint '#{$breakpoint}' не найден в карте $breakpoints.";
+  }
+}
+
+// центрирование
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// многоточие
+@mixin ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+@mixin fluid-font($min-font, $max-font, $min-vw: 320px, $max-vw: 1280px) {
+  font-size: clamp(
+    #{$min-font}px,
+    calc(#{$min-font}px + (#{$max-font} - #{$min-font}) * ((100vw - #{$min-vw}) / (#{$max-vw} - #{$min-vw}))),
+    #{$max-font}px
+  );
+}
+
+@mixin absolute-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+//examples
+@mixin transition($props: all, $duration: 0.3s, $timing: ease) {
+  transition: $props $duration $timing;
+}
+
+// .title {
+//   @include fluid-font(18, 32); // от 18px до 32px плавно
+// }
+
+// .block {
+//   font-size: 20px;
+
+//   @include media('tablet') {
+//     font-size: 16px;
+//   }
+
+//   @include media('mobile') {
+//     font-size: 14px;
+//   }
+// }
