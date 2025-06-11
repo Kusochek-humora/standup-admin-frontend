@@ -23,6 +23,7 @@ const handleLogin = async () => {
 }
 </script>
 <template>
+
   <section class="page">
     <a style="margin: 40px 0 0 0" href="https://test-standup.ru/" target="_blank">
       <img src="../assets/images/logo.svg" alt="logo" />

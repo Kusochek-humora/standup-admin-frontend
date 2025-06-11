@@ -4,6 +4,8 @@ const props = defineProps<{
   type: string
   placeholder: string
   disabled?: boolean
+  min?: number
+  max?: number
 }>()
 const modelValue = defineModel<string | number | null>()
 </script>
@@ -16,6 +18,8 @@ const modelValue = defineModel<string | number | null>()
       :type="props.type"
       :placeholder="props.placeholder"
       :disabled="props.disabled"
+      :min="props.min"
+      :max="props.max"
     />
   </label>
 </template>

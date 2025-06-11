@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HallEdiator from '@/components/HallEdiator.vue';
+
 </script>
 
 <template>
-    <HallEdiator />
+privet
 </template>
 
 <style scoped lang="scss">

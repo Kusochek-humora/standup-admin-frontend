@@ -6,10 +6,9 @@ import type { EventCreatePayload, EventResource } from '@/types/event-create'
 import { EventService } from '@/services/event.service'
 import { onMounted, ref, reactive } from 'vue'
 import ImageInput from '@/components/UI/ImageInput.vue'
-import SeatMap from '@/components/SeatMap.vue'
+
 const anotherEvent = ref(false)
 const isLoading = ref(false)
-const posterImage = ref<File | null>(null)
 
 const selectedPrice = ref<{ value: number; color: 'green' | 'blue' | 'red' | 'yellow' } | null>(
   null,
@@ -37,6 +36,7 @@ const form = ref<EventCreatePayload>({
   price_from: undefined,
   ticket_link: '',
   seat_prices: [],
+  poster_image: null,
 })
 
 const events = ref<EventResource[]>([])
@@ -51,7 +51,19 @@ function selectPrice(color: 'green' | 'blue' | 'red' | 'yellow') {
 
 const onSubmit = async () => {
   try {
-    const res = await EventService.createEvent(form.value)
+    const formData = new FormData()
+
+    Object.entries(form.value).forEach(([key, value]) => {
+      if (key === 'poster_image' && value instanceof File) {
+        formData.append('poster_image', value)
+      } else if (key === 'seat_prices') {
+        formData.append('seat_prices', JSON.stringify(value))
+      } else {
+        formData.append(key, String(value ?? ''))
+      }
+    })
+
+    const res = await EventService.createEvent(formData) // ← передаёшь formData
     console.log('Успех', res)
   } catch (e) {
     console.error('Ошибка создания', e)
@@ -104,6 +116,14 @@ onMounted(async () => {
       />
 
       <CheckboxDefault v-model="form.has_seat_selection" label="С выбором места" />
+      <InputDefault
+        v-model="form.ticket_count"
+        label="Количество билетов"
+        type="number"
+        placeholder="Введите количество билетов"
+        :min="1"
+        :disabled="form.has_seat_selection"
+      />
       <CheckboxDefault v-model="form.is_donation_event" label="Донатное мероприятие" />
       <CheckboxDefault v-model="form.is_main_event" label="Главное мероприятие" />
       <CheckboxDefault v-model="form.is_active" label="Активное мероприятие" />
@@ -123,8 +143,19 @@ onMounted(async () => {
         type="date"
         placeholder="Выберите дату"
       />
-
-      <ImageInput v-model="posterImage" label="Постер мероприятия" />
+      <InputDefault
+        v-model="form.event_hour"
+        label="Во сколько часы"
+        type="number"
+        placeholder="Выберите дату"
+      />
+      <InputDefault
+        v-model="form.event_minute"
+        label="Во сколько часы"
+        type="number"
+        placeholder="Выберите дату"
+      />
+      <ImageInput v-model:file="form.poster_image" />
 
       <div class="price-inputs">
         <input
@@ -156,7 +187,7 @@ onMounted(async () => {
           placeholder="Стоимость жёлтый"
         />
       </div>
-      <SeatMap />
+
       <button
         class="button-default events__btn"
         @click="onSubmit"
