@@ -7,13 +7,22 @@ import { EventService } from '@/services/event.service'
 import { onMounted, ref, reactive } from 'vue'
 import ImageInput from '@/components/UI/ImageInput.vue'
 
+
+// import layoutData from '@/components/json/plan-1.json'
+
+
+
+// function onSelectColor(color: string, price: number, reserved: boolean) {
+//   console.log(color, price, reserved)
+// }
+// Обработчик клика по месту
+
 const anotherEvent = ref(false)
 const isLoading = ref(false)
-
+const isReserveMode = ref(false)
 const selectedPrice = ref<{ value: number; color: 'green' | 'blue' | 'red' | 'yellow' } | null>(
   null,
 )
-const isReserveMode = ref(false)
 
 const priceInputs = reactive({
   green: 0,
@@ -128,6 +137,7 @@ onMounted(async () => {
       <CheckboxDefault v-model="form.is_main_event" label="Главное мероприятие" />
       <CheckboxDefault v-model="form.is_active" label="Активное мероприятие" />
 
+
       <CheckboxDefault label="Через Shodim.com" v-model="anotherEvent" />
       <InputDefault
         v-model="form.ticket_link"
@@ -205,7 +215,7 @@ onMounted(async () => {
   fill: #4caf50 !important;
 }
 :deep(.seat--blue) {
-  fill: #2196f3 !important;
+  fill: #de00fc !important;
 }
 :deep(.seat--red) {
   fill: #f44336 !important;
@@ -229,8 +239,6 @@ onMounted(async () => {
     display: flex;
     flex-direction: column;
     gap: 30px;
-  }
-  &__btn {
   }
 }
 </style>

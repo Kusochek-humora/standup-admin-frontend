@@ -1,1302 +1,2638 @@
-{
-  "standalone": {
-    "seats": [],
-    "decorations": [
-      {
-        "cx": "514.5",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "514.5",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "514.5",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "514.5",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "514.5",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "514.5",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "514.5",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "514.5",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "557.4",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "600.3",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "643.2",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "686.1",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "729",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "771.8",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "814.7",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "857.6",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "900.5",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "296.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "351.8",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "406.9",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "462",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "517.2",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "572.3",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "627.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "682.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "737.6",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "837.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1024",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1066.9",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1109.8",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1152.7",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "851",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "893.9",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "936.8",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "979.7",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1195.5",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1238.4",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1281.3",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "1324.2",
-        "cy": "892.4",
-        "r": "11.7",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "304.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "354.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "404.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "454.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "504.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "554.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "604.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "654.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "704.6",
-        "r": "11.5",
-        "class": "decoration"
-      },
-      {
-        "cx": "107.3",
-        "cy": "754.6",
-        "r": "11.5",
-        "class": "decoration"
-      }
-    ],
-    "texts": [
-      {
-        "transform": "matrix(1 0 0 1 875.4688 108.6582)",
-        "class": "st0 st11 st12",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 858.3931 245.5957)",
-        "class": "st0 st11 st13",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 304.1064)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 359.1299)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 414.1533)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 469.1768)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 524.2012)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 579.2246)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 634.248)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 689.2715)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 744.2949)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 844.084)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 1386.6016 899.1074)",
-        "class": "st0 st11 st14",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(6.123234e-17 -1 1 6.123234e-17 69.1069 642.2949)",
-        "class": "st0 st11 st13",
-        "tspans": []
-      },
-      {
-        "transform": "matrix(1 0 0 1 844.1133 984.5957)",
-        "class": "st0 st11 st13",
-        "tspans": []
-      }
-    ],
-    "paths": [],
-    "polygons": []
-  },
-  "groups": [
-    {
-      "id": null,
-      "class": "group",
-      "children": [
-        {
-          "tag": "path",
-          "d": "M960,142c-109.3,0-214.6-8.2-296.5-23.2c-0.3-0.1-0.5-0.3-0.4-0.5c0.1-0.2,0.4-0.4,0.8-0.3   c81.9,14.9,187.1,23.2,296.2,23.2c109.2,0,214.4-8.2,296.2-23.2c0.3-0.1,0.7,0.1,0.8,0.3c0.1,0.2-0.1,0.4-0.4,0.5   C1174.6,133.8,1069.3,142,960,142z",
-          "class": "st0"
-        }
-      ]
+[
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 875.4688 108.6582)",
+      "class": " decoration text title-svg"
     },
-    {
-      "id": null,
-      "class": "group",
-      "children": [
-        {
-          "tag": "circle",
-          "cx": "596",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "648",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "700",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "752",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "804",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "856",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "908",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "960",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "1012",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "1064",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "1116",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "1168",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "1220",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "1272",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        },
-        {
-          "tag": "circle",
-          "cx": "1324",
-          "cy": "1028.6",
-          "r": "11.5",
-          "class": "decoration"
-        }
-      ]
-    }
-  ]
-}
+    "text": "Сцена ",
+    "role": "decoration"
+  },
+  {
+    "tag": "path",
+    "attributes": {
+      "class": "decoration",
+      "d": "M960,142c-109.3,0-214.6-8.2-296.5-23.2c-0.3-0.1-0.5-0.3-0.4-0.5c0.1-0.2,0.4-0.4,0.8-0.3   c81.9,14.9,187.1,23.2,296.2,23.2c109.2,0,214.4-8.2,296.2-23.2c0.3-0.1,0.7,0.1,0.8,0.3c0.1,0.2-0.1,0.4-0.4,0.5   C1174.6,133.8,1069.3,142,960,142z"
+    },
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 858.3931 245.5957)",
+      "class": "size-24 decoration text"
+    },
+    "text": "Большой зал",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 304.1064)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 1",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 359.1299)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 2",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 414.1533)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 3",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 469.1768)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 4",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 524.2012)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 5",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 579.2246)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 6",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 634.248)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 7",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 689.2715)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 8",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 744.2949)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 9",
+    "role": "decoration"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "514.5",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "557.4",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "600.3",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "643.2",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "686.1",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "729",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "771.8",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "814.7",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "857.6",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "900.5",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "296.6",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "351.8",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "406.9",
+      "r": "11.7"
+    },
+    "fill": "#ff914d",
+    "price": 3500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "462",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "517.2",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "572.3",
+      "r": "11.7"
+    },
+    "fill": "#fcbf49",
+    "price": 3000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "627.4",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "682.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "737.6",
+      "r": "11.7"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 844.084)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 10",
+    "role": "decoration"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 1386.6016 899.1074)",
+      "class": "size-24 decoration text"
+    },
+    "text": "ряд 11",
+    "role": "decoration"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "837.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1024",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1066.9",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1109.8",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1152.7",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "851",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "893.9",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "936.8",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "979.7",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1195.5",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1238.4",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1281.3",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324.2",
+      "cy": "892.4",
+      "r": "11.7"
+    },
+    "fill": "#69c1e7",
+    "price": 1500,
+    "role": "seat"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(6.123234e-17 -1 1 6.123234e-17 69.1069 642.2949)",
+      "class": "size-24 decoration text svg-p"
+    },
+    "text": "2 этаж (слева)",
+    "role": "decoration"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "304.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "354.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "404.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "454.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "504.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "554.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "604.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "654.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "704.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "107.3",
+      "cy": "754.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(1 0 0 1 844.1133 984.5957)",
+      "class": "size-24 decoration text"
+    },
+    "text": "2 этаж (центр)",
+    "role": "decoration"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "596",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "648",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "700",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "752",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "804",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "856",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "908",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "960",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1012",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1064",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1116",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1168",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1220",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1272",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "class": "seat",
+      "cx": "1324",
+      "cy": "1028.6",
+      "r": "11.5"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "text",
+    "attributes": {
+      "transform": "matrix(6.123234e-17 -1 1 6.123234e-17 245 600)",
+      "class": "size-24 decoration text"
+    },
+    "text": "боковой ряд",
+    "role": "decoration"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "300",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "350",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "400",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "450",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "500",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "550",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "600",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "650",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "700",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  },
+  {
+    "tag": "circle",
+    "attributes": {
+      "cx": "285",
+      "cy": "754.6",
+      "r": "11.5",
+      "class": "seat"
+    },
+    "fill": "#7dc473",
+    "price": 2000,
+    "role": "seat"
+  }
+]
